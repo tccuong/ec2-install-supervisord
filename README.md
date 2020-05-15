@@ -12,7 +12,7 @@ $ echo_supervisord_conf > /etc/supervisord.conf
 ```
 Create the init scripts 
 ```
-$ sudo nano /etc/init.d/supervisord.d
+$ sudo nano /etc/init.d/supervisord
 ```
 Copy below scripts and paste into init scripts previous step
 ```
