@@ -170,7 +170,7 @@ $ sudo service supervisord status
 ## 4. Example 
 Example one service control running by supervisord 
 ```
-$ sudo nano \etc\supervisord.d\redis-server.conf
+$ sudo nano /etc/supervisord.d/redis-server.conf
 ```
 File content:
 ```
